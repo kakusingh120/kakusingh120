@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm [Krish Singh]</h1>
+<h1 align="center">Hey there 👋, I'm Krish Singh</h1>
 <h3 align="center">MERN Stack Developer | Frontend Enthusiast | Animation Lover 🎨</h3>
 
 <p align="center">
