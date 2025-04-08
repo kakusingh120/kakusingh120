@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer | Frontend Enthusiast | Animation Lover 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=I+build+frontend+magic+with+React+%26+JS+libraries;Passionate+about+Framer+Motion%2C+GSAP%2C+LocomotiveScroll;Always+learning%2C+always+building+🧠🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=I+build+frontend+magic+with+React+%26+JS+libraries;Passionate+about+Framer+Motion%2C+GSAP%2C+LocomotiveScroll;Always+learning%2C+always+building+🧠🚀" alt="Typing SVG" />
 </p>
 
 
