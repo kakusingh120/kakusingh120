@@ -2,18 +2,20 @@
 <h3 align="center">MERN Stack Developer | Frontend Enthusiast | Animation Lover 🎨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I+build+frontend+magic+with+React+%26+JS+libraries;Passionate+about+Framer+Motion%2C+GSAP%2C+Locomotive;Always+learning%2C+always+building+🧠🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=I+build+frontend+magic+with+React+%26+JS+libraries;Passionate+about+Framer+Motion%2C+GSAP%2C+LocomotiveScroll;Always+learning%2C+always+building+🧠🚀" alt="Typing SVG" />
 </p>
+
 
 ---
 
 ## 🚀 About Me
 
 - 💻 I'm a **MERN Stack Web Developer**, with a strong love for **frontend animations and interactions**
-- ✨ I enjoy working with **React**, **JS animation libraries**, and **Framer Motion**
+- 🎨 I love bringing websites to life using **JS animation libraries** like **GSAP**, **Framer Motion**, and **LocomotiveScroll**
 - 🔥 Constantly cloning award-winning sites to learn new UI/UX patterns
-- 🌱 Currently diving deeper into **backend**, **WebSockets**, and **3D web experiences**
-- 🧠 Practicing **Data Structures & Algorithms** regularly
+- 🧠 Currently focused on improving in **ReactJS**, **Socket.io**, and **building real-time apps**
+- 🌱 Diving deeper into backend development, WebSockets and fullstack.
+- 🔧 I enjoy building UI that’s smooth, responsive, and user-focused
 
 ---
 
