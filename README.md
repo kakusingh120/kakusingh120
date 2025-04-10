@@ -3,10 +3,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=I+build+frontend+magic+with+React+%26+JS+libraries;Passionate+about+Framer+Motion%2C+GSAP%2C+LocomotiveScroll;Always+learning%2C+always+building+🧠🚀" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=I+build+frontend+magic+with+React+and+JS+libraries;Lover+of+FramerMotion%2C+GSAP%2C+LocomotiveScroll" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 
