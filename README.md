@@ -1,9 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Krish Singh</h1>
-<h3 align="center">MERN Stack Developer | Frontend Enthusiast | Animation Lover 🎨</h3>
+<h3 align="center">Full-Stack MERN Developer | Clean Code Enthusiast | Problem Solver</h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=I+build+frontend+magic+with+React+and+JS+libraries;Lover+of+FramerMotion%2C+GSAP%2C+LocomotiveScroll;Real-time+MERN+Apps+%7C+Socket.io+%7C+Cloud+Deployments" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+and+responsive+MERN+stack+applications;RESTful+APIs+%7C+Real-time+Apps+%7C+Cloud+Deployments;Clean+UI%2C+Modular+Code%2C+SEO+Friendly+Designs" 
     alt="Typing SVG" 
   />
 </p>
@@ -12,12 +12,13 @@
 
 ## 🚀 About Me
 
-- 💻 Full-stack **MERN developer** with a focus on crafting responsive UIs & scalable backends  
-- 🎨 Passionate about frontend magic using **GSAP**, **Framer Motion**, and **LocomotiveScroll**  
-- 🔁 Experienced in building **real-time applications** with **Socket.io** and RESTful APIs  
-- ☁️ Skilled in **authentication**, **image upload (Cloudinary)**, and cloud deployment using **Render & Vercel**  
-- 🧠 Currently exploring **backend patterns**, **WebSockets**, and deepening my **React + Node.js** skills  
-- 🧩 Active on **LeetCode** with a rating of **1480+**, sharpening DSA and problem-solving daily  
+- 💻 I'm a **Full-Stack Web Developer** with strong command over the **MERN stack**
+- 🧠 I enjoy solving logical problems and building **clean, scalable applications**
+- 📱 Proficient in creating **responsive**, **modular**, and **SEO-friendly** user interfaces
+- 🔁 Experienced in **real-time communication** using **Socket.io**, and building **RESTful APIs**
+- ☁️ Skilled in deploying full-stack apps using **Vercel**, **Render**, and **Cloudinary**
+- ⚙️ Comfortable with **authentication**, **image uploads**, and **MVC architecture**
+- 📈 Active **LeetCode** participant (Rating: **1480+**), focused on improving **DSA**
 
 ---
 
@@ -31,9 +32,6 @@
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LocomotiveScroll-000000?style=for-the-badge"/>
 </p>
 
 ### 🧠 Backend & Realtime
