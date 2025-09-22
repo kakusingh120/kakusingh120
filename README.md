@@ -3,10 +3,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Building+scalable+and+responsive+MERN+stack+applications;RESTful+APIs+%7C+Real-time+Apps+%7C+Cloud+Deployments;Clean+UI%2C+Modular+Code%2C+SEO+Friendly+Designs" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+MERN+Developer+%7C+Clean+Code+Advocate;Backend:+Node.js+%7C+Express.js+%7C+REST+APIs+%7C+Microservices;Frontend:+React.js+%7C+Redux+Toolkit+%7C+GSAP+%7C+Framer+Motion;Databases:+MongoDB+%7C+MySQL;Cloud+%26+DevOps:+AWS+%7C+Docker+%7C+CI/CD+%7C+Vercel+%7C+Render;Testing:+Jest+%7C+Postman;Other:+Git+%7C+GitHub+%7C+VS+Code+%7C+Socket.io+%7C+RabbitMQ" 
     alt="Typing SVG" 
   />
 </p>
+
 
 ---
 
