@@ -11,15 +11,16 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 💻 I'm a **Full-Stack Web Developer** with strong command over the **MERN stack**
-- 🧠 I enjoy solving logical problems and building **clean, scalable applications**
-- 📱 Proficient in creating **responsive**, **modular**, and **SEO-friendly** user interfaces
-- 🔁 Experienced in **real-time communication** using **Socket.io**, and building **RESTful APIs**
-- ☁️ Skilled in deploying full-stack apps using **Vercel**, **Render**, and **Cloudinary**
-- ⚙️ Comfortable with **authentication**, **image uploads**, and **MVC architecture**
-- 📈 Active **LeetCode** participant (Rating: **1480+**), focused on improving **DSA**
+- ⚡ **Full-Stack Developer** with a strong focus on **backend systems, cloud deployments, and scalable architectures**  
+- 🔗 Experienced in designing and implementing **RESTful APIs**, **Microservices architectures**, and **real-time applications** using **Node.js, Express.js, Socket.io, and RabbitMQ**  
+- ☁️ Skilled in **Cloud & DevOps**: deploying and managing applications on **AWS (EC2, S3, RDS)**, **Docker**, **Vercel**, **Render**, and **Cloudinary**, with hands-on expertise in **CI/CD pipelines**  
+- 💾 Proficient with **SQL (MySQL)** and **NoSQL (MongoDB)** databases, ensuring performance, scalability, and optimized queries  
+- ✅ Strong foundation in **testing and reliability** with **Jest (unit testing)** and **Postman (API testing)**  
+- 🧠 Passionate about **problem-solving** — solved **200+ DSA problems** on **LeetCode**, with a **1500+ rating**, continuously improving in **algorithms, data structures, and system design**  
+- 🎨 Experienced in building **responsive and interactive user interfaces** using **React.js, Redux Toolkit, GSAP, and Framer Motion**  
+
 
 ---
 
