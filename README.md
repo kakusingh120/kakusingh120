@@ -67,10 +67,7 @@
 ### 🧑‍💻 Languages & DSA  
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ### 🧰 Tools & Platforms  
@@ -85,30 +82,39 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=tokyonight" alt="Krish's GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=kakusingh120&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kakusingh120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=kakusingh120&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakusingh120&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px"/>
 </p>
 
 ---
 
-## 📚 Coding Profiles
+## 📚 Coding Profiles  
 
 <p align="center">
   <a href="https://leetcode.com/u/krishsingh123/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-200%2B_Problems_•_1500%2B_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://github.com/kakusingh120" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/krish-singh-9023b12a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Krish_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:krishsingh.work@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-krishsingh.work%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
